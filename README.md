@@ -26,8 +26,8 @@ Shorthand:
 
 **transition**: property name | duration | timing function| delay
 
-ex: 
-http://codepen.io/king0120/pen/qbvPOE
+ex: [Example Codepen](http://codepen.io/king0120/pen/qbvPOE)
+
 
 ####Keyframes
 Keyframes are created through the animation property and keyframes. 
@@ -69,9 +69,6 @@ Keyframes can also be directed via percentages
 	}
 }
 ```
-
-ex: 
-http://codepen.io/king0120/pen/qbvPOE
 
 These keyframe animations are called through the animation property.  Animation has the following properties.
 
@@ -161,10 +158,10 @@ One of the more popular features of velocity is it's easy to use scroll function
 - offset: Scroll a specific number of pixels above or below the selected element.
 
 ##Great Examples of Web Animation
-http://activetheory.net/work/find-your-force
+[Active Theory](http://activetheory.net)
 
-https://onlycoin.com/
+[Coin Landing Page](https://onlycoin.com/)
 
-https://kamra.invisi-dir.com/
+[Deja-Vu Interactive Music Video](https://kamra.invisi-dir.com/)
 
-http://2016.makemepulse.com/
+[Make Me Pulse](http://2016.makemepulse.com/)
