@@ -158,9 +158,13 @@ One of the more popular features of velocity is it's easy to use scroll function
 
 - container: Scroll to a specific id or div
 - axis: Scroll across a x or y axis
-- offset: Scroll
+- offset: Scroll a specific number of pixels above or below the selected element.
 
 ##Great Examples of Web Animation
+http://activetheory.net/work/find-your-force
+
+https://onlycoin.com/
+
 https://kamra.invisi-dir.com/
 
 http://2016.makemepulse.com/
