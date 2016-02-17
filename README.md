@@ -107,9 +107,11 @@ When to use Javascript Animations
 
 There are plenty of great animation libraries available today.  Today I am going to cover Velocity.js but there are other options available
 
-jQuery:
-Greensock: http://greensock.com/gsap
-Velocity.js
+[jQuery](http://jquery.com/)
+
+[Greensock](http://greensock.com/gsap)
+
+[Velocity.js](http://julian.com/research/velocity/)
 
 ####Velocity.js
 Velocity.js is a lightweight library with a syntax that is familiar to anyone using jQuery.  In fact, you can replace $.animate with $.velocity() anywhere in your project and be perfectly fine.  
